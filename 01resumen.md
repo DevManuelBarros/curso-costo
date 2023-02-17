@@ -48,8 +48,28 @@ Los objetivos del proceso contable de la amortización son:
 
 ### clasificacion de los costos
 
-- Costos directos: Son aquellos que se identifican claramente con una actividad, departamento o producto.
+- ***Costos directos***: Son aquellos que se identifican claramente con una actividad, departamento o producto. Por ejemplo, las materias primas, los salarios del personal de producción, etc. Todos aquellos costos en lo que no existe duda entre la relación de ellos y el producto.
+- ***Costos Indirectos***: Son aquellos que dependen de un cálculo, de un ratio o estimaciones para ser adjudicado a una actividad. Por ejemplo, el costo de administración de una planta industrial, es un costo indirecto, ya que no se puede identificar con claridad qué porción  de este costo corresponde a cada articulo producido.
 
+##### De acuerdo al tiempo en que fueron calculados:
+- ***Costos históricos***: Son los generados durante un determinado periodo, como los incurridos con los productos vendidos, que se encuentran en proceso o en inventario.
+- ***Costos predeterminados***: Se estiman en base a series estadisticas de costos históricos o estudios de tiempos y movimientos y se incorporan a los presupuestos.
+
+##### De acuerdo con el momento en que se cargan o enfrentan a los ingresos:
+- ***Costos del periodo***: Aquellos que se identidican con un periodo de tiempo, por ejemplo un alquiler de unas oficinas. 
+- ***Costo del producto***: Los costos de los productos que no generaron ingresos y permanecen inventariados.
+
+##### De acuerdo al control que se tenga sobre la ocurrencia de un costo:
+- ***Costos controlables***: Si bien todos los costos son controlables de alguna manera; ello depende básicamente de su nivel jerárquico desde donde se toma la decisión y representa el fundamento para diseñar sistema de control de costo por area de responsabilidad. Ejemplo, un gerente puede ejercer control sobre las comisiones de los vendedores pero no puede ejercer control sobre su propio salario.
+- ***Costos no controlables***: Dependen de la autoridad o nivel en que se toma la decisión de adjudicación.
+
+##### De acuerdo a la importacia para la toma de decisiones:
+- ***Costos incrementales***: También llamados costos diferenciales o relevantes, se modifican dependiendo de la alternativa que se elija.
+- ***Costos no incrementales***: Son costos que permanecen sin modificación, independientemente del curso de acción elegido. 
+
+##### De acuerdo con el tipo de sacrificio en que se incurra:
+- ***Costos desembolsables***: Son los que originan una salida de efectivo y que más tarde se convertirán en costos históricos.
+- ***Costo de oportunidad***: Son aquellos provocados por seguir un curso de acción versus otro alternativo que hubiera generado ingresos. No implica una salida de efectivo sino la renuncia a un ingreso.
 
 
 
