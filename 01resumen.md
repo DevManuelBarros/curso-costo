@@ -77,4 +77,8 @@ Tenemos otra clasificación que es un hibrido, son los costos que no son totalme
 
 ### Tipo de costos según variabilidad.
 
-[imagen][./images/tipos_de_costos.png]
+![imagen](./images/tipos_de_costos.png)
+
+![imagen](./images/tipos_de_costos_2.png)
+
+
