@@ -107,13 +107,10 @@ Las estructuras de costos son esquemas que muestran en forma desagregada los com
 
 * **Costos de fabricación**: aquellos que forman parte del proceso de transformación de la materia prima en productos terminados.
     * Materias Primas **(MP)**: Es el material que se consumen en cantidad definida por cada unidad de productos. Se debe considerar la merma de la materia prima dentro del costo.
-    * Mano de obra directa **(MOD)**: Se considera MOD a cualquier trabajo humano utilizado en la transformación o ensamble de la materia prima destinada al producto final.
-
-La suma de estos dos se le llama costo primo:
-
----
+    * Mano de obra directa **(MOD)**: Se considera MOD a cualquier trabajo humano utilizado en la transformación o ensamble de la materia prima destinada al producto final. La suma de estos dos se le llama costo primo:
+~~~
           MP + MOD = COSTO_PRIMO
----
+~~~
 
     * **Costos Indirectos de fabricación**: Se trata de costos que no tienen indicencia directa en el producto final, pero sin los cuales sería impisible la realización del mismo:
         * *Materiales indirectos*: suministros, repuestos, lubricantes, combustibles, entre otros.
@@ -122,9 +119,9 @@ La suma de estos dos se le llama costo primo:
 
   La suma de la mano de obra directa (MOD) y los costos indirectos de fabricación (CIF) dan como resultado el **costo de transformación**.
 
----
+~~~
           MOD + CIF = COSTO DE TRANSFORMACIÓN  
----
+~~~
 
 ![costo de fabricación](./images/imagen4.png)
 
