@@ -95,5 +95,37 @@ Tenemos otra clasificación que es un híbrido, son los costos que no son totalm
 
 ### Características de los costos industriales.
 
-La industria se caracteriza por 
+La industria se caracteriza por desarrollar fases o procesos de producción para ciertos productos o lineas de productos uniformes.
+
+Hay muchas industrias que utilizan este tipo de esquema, ejemplo: las alimenticias, farmacéutica, química, cemento, textil, etc.
+
+La metodología utilizada por lo general es dividr la fábrica por fases de producción para asignar mejor los costos den los periodos establecidos.
+
+### La estructura del costo industrial.
+
+Las estructuras de costos son esquemas que muestran en forma desagregada los componentes principales del costo de un cierto productos o conjunto de productos. En el caso de una empresa del sector industrial, la estructura de costos incluye tipicamente los siguientes componentes:
+
+* **Costos de fabricación**: aquellos que forman parte del proceso de transformación de la materia prima en productos terminados.
+    * Materias Primas **(MP)**: Es el material que se consumen en cantidad definida por cada unidad de productos. Se debe considerar la merma de la materia prima dentro del costo.
+    * Mano de obra directa **(MOD)**: Se considera MOD a cualquier trabajo humano utilizado en la transformación o ensamble de la materia prima destinada al producto final.
+
+La suma de estos dos se le llama costo primo:
+
+---
+          MP + MOD = COSTO_PRIMO
+---
+
+    * **Costos Indirectos de fabricación**: Se trata de costos que no tienen indicencia directa en el producto final, pero sin los cuales sería impisible la realización del mismo:
+        * *Materiales indirectos*: suministros, repuestos, lubricantes, combustibles, entre otros.
+        * *Trabajo asalariado*: mno de obra indirecta (MOI), tal como la supervisión, la dirección general, personal administrativo, etc.
+        * *Otros costos*: energía eléctrica para iluminación, alquileres de planta, depreciación de bines de uso de la actividad fabril. Tasa de servicios.
+
+  La suma de la mano de obra directa (MOD) y los costos indirectos de fabricación (CIF) dan como resultado el **costo de transformación**.
+
+---
+          MOD + CIF = COSTO DE TRANSFORMACIÓN  
+---
+
+![costo de fabricación](./images/imagen4.png)
+
 
