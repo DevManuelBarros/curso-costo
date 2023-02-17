@@ -105,17 +105,17 @@ La metodología utilizada por lo general es dividr la fábrica por fases de prod
 
 Las estructuras de costos son esquemas que muestran en forma desagregada los componentes principales del costo de un cierto productos o conjunto de productos. En el caso de una empresa del sector industrial, la estructura de costos incluye tipicamente los siguientes componentes:
 
-* **Costos de fabricación**: aquellos que forman parte del proceso de transformación de la materia prima en productos terminados.
+1. **Costos de fabricación**: aquellos que forman parte del proceso de transformación de la materia prima en productos terminados.
     * Materias Primas **(MP)**: Es el material que se consumen en cantidad definida por cada unidad de productos. Se debe considerar la merma de la materia prima dentro del costo.
     * Mano de obra directa **(MOD)**: Se considera MOD a cualquier trabajo humano utilizado en la transformación o ensamble de la materia prima destinada al producto final. La suma de estos dos se le llama costo primo:
 ~~~
           MP + MOD = COSTO_PRIMO
 ~~~
 
-    * **Costos Indirectos de fabricación**: Se trata de costos que no tienen indicencia directa en el producto final, pero sin los cuales sería impisible la realización del mismo:
-        * *Materiales indirectos*: suministros, repuestos, lubricantes, combustibles, entre otros.
-        * *Trabajo asalariado*: mno de obra indirecta (MOI), tal como la supervisión, la dirección general, personal administrativo, etc.
-        * *Otros costos*: energía eléctrica para iluminación, alquileres de planta, depreciación de bines de uso de la actividad fabril. Tasa de servicios.
+* **Costos Indirectos de fabricación**: Se trata de costos que no tienen indicencia directa en el producto final, pero sin los cuales sería impisible la realización del mismo:
+    * *Materiales indirectos*: suministros, repuestos, lubricantes, combustibles, entre otros.
+    * *Trabajo asalariado*: mno de obra indirecta (MOI), tal como la supervisión, la dirección general, personal administrativo, etc.
+    * *Otros costos*: energía eléctrica para iluminación, alquileres de planta, depreciación de bines de uso de la actividad fabril. Tasa de servicios.
 
   La suma de la mano de obra directa (MOD) y los costos indirectos de fabricación (CIF) dan como resultado el **costo de transformación**.
 
@@ -125,4 +125,7 @@ Las estructuras de costos son esquemas que muestran en forma desagregada los com
 
 ![costo de fabricación](./images/imagen4.png)
 
+2. **Costos de administración**: se originan en el área de administración general para la gestión del negocio. Incluye los salarios del personal, honostrarios, alquiler de oficinal, papeleria e insumos propios de la administación.
+3. **Costos de comercialización**: Son lo que lleva acabo las áreas de venta y marketing. Ejemplo, sueldos y comisiones, fletes hasta el lugar de destino de la venta. Seguro por el transporte de la mercadería, gastos de promoción y publicidad.
+4. **Costos financieros**: Aquellos vinculados al movimineto y la obtención de fondos para la empersa. Incluye intereses pagados por préstamos o giros en descubierto, comisiones bancarias, etcétera.
 
