@@ -71,6 +71,10 @@ Los objetivos del proceso contable de la amortización son:
 - ***Costos desembolsables***: Son los que originan una salida de efectivo y que más tarde se convertirán en costos históricos.
 - ***Costo de oportunidad***: Son aquellos provocados por seguir un curso de acción versus otro alternativo que hubiera generado ingresos. No implica una salida de efectivo sino la renuncia a un ingreso.
 
+***Podemos dejar como reflexión final que los costos fijos estan asociados a la capacidad instalada o la estructura de la empresa, mientras que los costos variables se relacionan con el nivel de actividad real.***
 
+Tenemos otra clasificación que es un hibrido, son los costos que no son totalmente variables ni fijos. Por ejemplo, los servicios de luz, agua, gas, etcétera. Estos tienen la caractaristica de tener un piso base y variar dependiendo del uso del mismo, y esto muchas veces puede estar asociado al producto final.
 
+### Tipo de costos según variabilidad.
 
+[imagen][./images/tipos_de_costos.png]
