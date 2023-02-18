@@ -129,3 +129,74 @@ Las estructuras de costos son esquemas que muestran en forma desagregada los com
 3. **Costos de comercialización**: Son lo que lleva acabo las áreas de venta y marketing. Ejemplo, sueldos y comisiones, fletes hasta el lugar de destino de la venta. Seguro por el transporte de la mercadería, gastos de promoción y publicidad.
 4. **Costos financieros**: Aquellos vinculados al movimineto y la obtención de fondos para la empersa. Incluye intereses pagados por préstamos o giros en descubierto, comisiones bancarias, etcétera.
 
+### Ejemplo: cálculo de incidencia de una variación de costos.
+ Las estructuras de sotos pueden utilizarse, entre otra cosa para evaluar la indicencia de las variaciones de costos.
+
+ Ejemplo de una estructura simple de costo:
+
+ * MP: 40%
+ * MOD: 25%
+ * CIF: 35%
+
+Si la materia prima (MP) de este insumo aumenta de precio un 10% que incidencia cuantivativa tendrá este aumento sobre el costo total del proveedor?.
+
+Si vemos los calculos:
+- MP  : incidencia actual-> 40% | variación -> 10%  | indicencia ajustada:  44%
+- MOD : incidencia actual-> 25% | variación ->  0%  | indicencia ajustada:  25%
+- CIF : incidencia actual-> 35% | variación ->  0%  | indicencia ajustada:  35%
+- **Total:                   100%| ----------------- | indicencia ajustada: 104%**
+
+Entonces resulta que un aumento del 10% en la materia prima tendrá un indicencia final del 4% sobre el costo de fabricación. Lo que debemos posteriormente es actualizar la incidencia que tiene cada componentes para analisis posteriores:
+
+- Componente | Nueva incidencia cálculo | Nueva incidencia resultado |
+- 
+- MP         |        *(44/104)x100*      |            **42%**             |
+- MOD        |        *(25/104)x100*      |            **24%**             |
+- MP         |        *(35/104)x100*      |            **34%**             |
+- **total**      |      *(104/104)x100*       |            **100%**            |
+
+### Determinción del costo de ventas
+
+Es importante remarcar que el costo de ventas no es necesariamente equivalente al costo de fabricación del periodo analizado. Por lo tanto debe seguirse un procedimineto específico para el cálculo del costo de ventas del periodo. El costo de las materias primas (MP) consumidas en la producción, se suma la existencia inicial de MP, las compras del período, y se resta la existencia final de MP. Luego, a este importe de MP consumidas se le suma al costo de la MOD y los CIF del período, para obtener el costo de fabricación total. Este costo debe ser ajustado porque no todos los productos llegan a ser terminados en el mismo período, y hay existencias de productos en procesos que provienen de un período anterior. Luego de este ajuste, se obtiene el costo de fabricación de los productos terminados durante el período analizado.
+
+###Contabilidad de costos - Industrial.
+---
+- Mas   Compra de materia prima
+- Menos Inventario final de Materia Prima
+---
+**IGUAL  Materia Prima Consumida**
+- Mas   Mano de Obra directa (MOD)
+- Mas   Costos indirectos de Fabricación (CIF)
+---
+**IGUAL  Costos de fabricación** (productos terminados y no terminados)
+- Mas   Inventario inicial de Productos en Proceso
+- Menos Inventario final de Productos en Proceso
+---
+**IGUAL  Costos de fabricación** (solo productos terminados)
+- Mas   Inventario inicial de productos terminados
+- Menos Inventario final de productos terminados
+---
+**IGUAL  COSTO DE VENTAS**
+
+### Estado de Resultados.
+
+Es un reporte que indentifica los ingresos y costos de la empresa y permite calcular la utilidad de ciertos periodos. La determinación de los costos de la empresa ayuda a confesionar el Estado de Resultado del período analizado, y así llegar al resultado economico de la actividad de la empresa.
+
+![Estado de resultado](./images/estado-resultado.png)
+
+
+- OPERACION   |   Ventas Netas
+- 
+- ***Menos***       |  *Costo de ventas*
+- IGUAL       |  **utilidad bruta**
+- ***Menos***       |  *Costo de administración*
+- ***Menos***       |  *Costo de comercialización*
+- IGUAL       |  **utilidad operativa**
+- MAS         |  *Ingresos no operativos*
+- ***Menos***       |  *Costos financieros*
+- MENOS       |  *Impuestos*
+- MENOS       |  *Otros costos no operativos*
+---
+- ***IGUAL***       |  ***utilidad neta***
+
+
